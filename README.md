@@ -1,4 +1,3 @@
-、
 # COMO: CrOss-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection
 
 ## 📖 Introduction
