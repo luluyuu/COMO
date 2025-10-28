@@ -87,7 +87,7 @@ DroneVehicle/
 To train COMO on your dataset, run:
 
 ```bash
-torchrun --nproc_per_node=2 --master_port=29502 train-Dronevehicle.py 
+torchrun --nproc_per_node=2 --master_port=29502 train.py 
 ```
 
 > ⚠️ Adjust dataset path and hyperparameters according to your environment.
