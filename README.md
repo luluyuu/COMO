@@ -95,7 +95,7 @@ torchrun --nproc_per_node=2 --master_port=29502 train-Dronevehicle.py
 
 ## 🧪 Validation
 
-To evaluate a trained model:
+To evaluate a trained model, and the checkpoint is in './checkpoint/best.pt':
 
 ```bash
 python val.py 
