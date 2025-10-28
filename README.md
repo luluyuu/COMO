@@ -24,7 +24,7 @@ Install dependencies step by step:
 ```bash
 # 1. Install dependencies
 pip install causal_conv1d-1.1.1+cu118torch2.0cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
-pip mamba_ssm-1.2.0.post1+cu118torch2.0cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+pip install mamba_ssm-1.2.0.post1+cu118torch2.0cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 
 # 2. Replace mamba_simple.py & local_scan.py
 # (copy modified ./ssm/mamba_simple.py and ./ssm/local_scan.py  into the installed mamba-ssm package folder as fig.1 )
