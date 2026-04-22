@@ -18,7 +18,7 @@ multi: visible/infrared
 names: 
   0: car
   1: truck
-  2:  bus
-  3: motorcycle
-  4: bicycle
+  2: bus
+  3: Van
+  4: Freight Car
   
