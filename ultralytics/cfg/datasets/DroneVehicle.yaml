@@ -17,8 +17,8 @@ multi: visible/infrared
 # Classes
 names: 
   0: car
-  1: truck
-  2: bus
-  3: Van
-  4: Freight Car
+  1: feright car
+  2: truck
+  3: bus
+  4: van
   
